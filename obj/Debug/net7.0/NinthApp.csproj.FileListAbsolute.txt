@@ -1,0 +1,15 @@
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.csproj.AssemblyReference.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.AssemblyInfoInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.AssemblyInfo.cs
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.csproj.CoreCompileInputs.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\bin\Debug\net7.0\NinthApp.exe
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\bin\Debug\net7.0\NinthApp.deps.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\bin\Debug\net7.0\NinthApp.runtimeconfig.json
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\bin\Debug\net7.0\NinthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\bin\Debug\net7.0\NinthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\refint\NinthApp.dll
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.pdb
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\NinthApp.genruntimeconfig.cache
+C:\Users\Stanislav Lukashov\Desktop\проги\обучение\NinthApp\NinthApp\obj\Debug\net7.0\ref\NinthApp.dll
